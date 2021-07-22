@@ -16,7 +16,7 @@
     - E-mail
     - Tableua
 
-![AnalyticsLayer](AnalyticsLayer.png)
+![AnalyticsLayer](https://drive.google.com/file/d/1LPnQbIjFVCDD8oHrymb8BsvIqXUD0qTp/view?usp=sharing)
 
 ## Аналитика в Excel
 Необходимо было сделать дашборд, используя данные Sample - Superstore.xls
