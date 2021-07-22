@@ -1,5 +1,7 @@
 <a id="up"></a>
-#Описание дашборда
+# Описание дашборда
+> Ссылка на дашборд - [Dashboard- Superstore.xlsx](https://github.com/sadokhin/DE-101/blob/main/Module%201/Dashboard-%20Superstore.xlsx)
+
 Ниже вы можете ознакомиться со всеми элементами дашборда и как они были созданы.
 
 Описание полей в исходном файле
@@ -82,7 +84,7 @@ _Days of Delivery_ - разность между полями "Ship Date" и "Or
 
 ![ProfitManager](https://github.com/sadokhin/DE-101/blob/9afa5d0077224da091bc566d025d27b0e1d2c584/img/returnmanager.png)
 
-__Таблицы__
+### Таблицы
 
 1. __Основные показатели менеджеров__
 
