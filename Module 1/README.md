@@ -20,9 +20,9 @@
 
 ## Аналитика в Excel
 Необходимо было сделать дашборд, используя данные Sample - Superstore.xls
-> Исходные данные - [Sample - Superstore.xls](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls?raw=true)
-Дашборд
-Описание создания дашборда
+> Исходные данные - [Sample - Superstore.xls](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls?raw=true)<br>
+> Дашборд - [Dashboard- Superstore.xlsx](Dashboard- Superstore.xlsx)<br>
+> Описание создания дашборда - [dashboard_description.md](https://github.com/sadokhin/DE-101/blob/711d5ca013dd21317a451eebc8091a5034a745dd/Module%201/dashboard_description.md)
 
 __Фактоиды__
 1. Кол-во проданных товаров
@@ -48,4 +48,4 @@ __Таблицы__
     1.3. Доля скидок
     1.4. Кол-во проданных товаров
 
-Подробнее с описанием всех фактоидов, диаграмм и таблиц можно ознакомиться по ссылке.
+Подробнее с описанием всех фактоидов, диаграмм и таблиц можно ознакомиться по [ссылке](https://github.com/sadokhin/DE-101/blob/711d5ca013dd21317a451eebc8091a5034a745dd/Module%201/dashboard_description.md).
