@@ -16,12 +16,12 @@
     - E-mail
     - Tableua
 
-![AnalyticsLayer](img/AnalyticsLayer.png)
+![AnalyticsLayer](https://github.com/sadokhin/DE-101/blob/0ad3a3e389741ddffe292cef5326dbc469b7405a/img/AnalyticsLayer.png)
 
 ## Аналитика в Excel
 Необходимо было сделать дашборд, используя данные Sample - Superstore.xls
 > Исходные данные - [Sample - Superstore.xls](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls?raw=true)<br>
-> Дашборд - [Dashboard- Superstore.xlsx](Dashboard- Superstore.xlsx)<br>
+> Дашборд - [Dashboard- Superstore.xlsx](https://github.com/sadokhin/DE-101/blob/main/Module%201/Dashboard-%20Superstore.xlsx)<br>
 > Описание создания дашборда - [dashboard_description.md](https://github.com/sadokhin/DE-101/blob/711d5ca013dd21317a451eebc8091a5034a745dd/Module%201/dashboard_description.md)
 
 __Фактоиды__
