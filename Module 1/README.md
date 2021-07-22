@@ -20,9 +20,9 @@
 
 ## Аналитика в Excel
 Необходимо было сделать дашборд, используя данные Sample - Superstore.xls
-> Исходные данные
-> Дашборд
-> Описание создания дашборда
+> Исходные данные - [Sample - Superstore.xls](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls?raw=true)
+Дашборд
+Описание создания дашборда
 
 __Фактоиды__
 1. Кол-во проданных товаров
