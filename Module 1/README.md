@@ -48,4 +48,4 @@ __Таблицы__
     3. Доля скидок
     4. Кол-во проданных товаров
 
-Подробнее с описанием всех фактоидов, диаграмм и таблиц можно ознакомиться по [ссылке](https://github.com/sadokhin/DE-101/blob/711d5ca013dd21317a451eebc8091a5034a745dd/Module%201/dashboard_description.md).
+Подробнее с описанием всех фактоидов, диаграмм и таблиц можно ознакомиться по [ссылке](https://github.com/sadokhin/DE-101/blob/82acee54daa105620ae54e01c99d0830c6b5eabc/Module%201/dashboard_description.md).
