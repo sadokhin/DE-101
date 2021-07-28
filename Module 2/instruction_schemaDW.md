@@ -1,16 +1,17 @@
 <a id="up"></a>
 # Описание схемы базы данных
 Наши "сырые" данные хранятся в файлах:
->[stg.orders](https://github.com/sadokhin/DE-101/blob/b30afb4475674ca8d93f16e99a80f91ca1ceafca/Module%202/stg.orders.sql)
-[stg.returns](https://github.com/sadokhin/DE-101/blob/b30afb4475674ca8d93f16e99a80f91ca1ceafca/Module%202/stg.returns.sql)
-[stg.manager](https://github.com/sadokhin/DE-101/blob/b30afb4475674ca8d93f16e99a80f91ca1ceafca/Module%202/stg.manager.sql)
+>[stg.orders](https://github.com/sadokhin/DE-101/blob/b30afb4475674ca8d93f16e99a80f91ca1ceafca/Module%202/stg.orders.sql)<br>
+>[stg.returns](https://github.com/sadokhin/DE-101/blob/b30afb4475674ca8d93f16e99a80f91ca1ceafca/Module%202/stg.returns.sql)<br>
+>[stg.manager](https://github.com/sadokhin/DE-101/blob/b30afb4475674ca8d93f16e99a80f91ca1ceafca/Module%202/stg.manager.sql)
+
 Код разделен на смысловые кусочки, которые состоят из:
 
 1. Создание таблицы
 2. Наполнение данными
 3. Проверка
 
-Физическая модель схемы базы данных
+__Физическая модель схемы базы данных__
 
 ![physics_model](https://github.com/sadokhin/DE-101/blob/b30afb4475674ca8d93f16e99a80f91ca1ceafca/Module%202/phisics_model.png)
 
@@ -77,7 +78,7 @@ from (select distinct customer_id, customer_name, segment from stg.orders ) o
 	
 select * from dw.customer_dim
 ```
-Здесь, все то же самое, как и в примере выше. Опять берем только уникальные кортежи. Чуть не забыл, `100 + row_number() over()`, что это за зверь такой. Тут мы генерим одним из способов уникальную последовательность чисел. Возможно, подойдет и AUTO_INCREMENT или generate_series(), но как первый раз увидел, так и делаю :(
+Здесь, все то же самое, как и в примере выше. Опять берем только уникальные кортежи. Чуть не забыл, `100 + row_number() over()`, что это за зверь такой. Тут мы генерим одним из способов уникальную последовательность чисел. Возможно, подойдет и `AUTO_INCREMENT` или `generate_series()`, но как первый раз увидел, так и делаю :(
 <a id="3"></a>
 
 __3. Данные о доставке (`ship_dim`)__
