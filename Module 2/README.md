@@ -20,11 +20,11 @@ __Концептуальная__
 
 __Логическая__
 
-[logic_model](https://github.com/sadokhin/DE-101/blob/e56ed157e769a574aa45e2d782e0e777184ab8af/Module%202/logic_model.png)
+![logic_model](https://github.com/sadokhin/DE-101/blob/e56ed157e769a574aa45e2d782e0e777184ab8af/Module%202/logic_model.png)
 
 __Физическая__
 
-[physics_model](https://github.com/sadokhin/DE-101/blob/e56ed157e769a574aa45e2d782e0e777184ab8af/Module%202/phisics_model.png)
+![physics_model](https://github.com/sadokhin/DE-101/blob/e56ed157e769a574aa45e2d782e0e777184ab8af/Module%202/phisics_model.png)
 
 __Создание схемы DW (Business layer)__
 - Код создания из схемы stg в dw - [from_stg_to_dwt.sql](https://github.com/sadokhin/DE-101/blob/e56ed157e769a574aa45e2d782e0e777184ab8af/Module%202/from_stg_to_dwt.sql)
